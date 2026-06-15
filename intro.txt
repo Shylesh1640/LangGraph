@@ -1,0 +1,19 @@
+1.It is buit on top of langchain
+2.used to build complex workflow
+3.  1.easy dev
+    2.highly customizable
+    3.python based
+    4.easy in complex workflow 
+    5.flexibliy - customizable
+    6.scalablity - system design (methods)
+4.agents-
+    1.state
+    1.node
+        1.start
+        2.end
+    2.edge
+    3.node
+        1.start
+        2.end
+    4.compile
+    5.run
